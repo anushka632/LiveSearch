@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "products": [
+    {
+      "id": "P101",
+      "title": "Gaming Laptop 15-inch",
+      "category": "Electronics",
+      "price": 75000
+    },
+    {
+      "id": "P102",
+      "title": "Ultrabook Slim",
+      "category": "Electronics",
+      "price": 55000
+    },
+    {
+      "id": "P103",
+      "title": "Wireless Gaming Mouse",
+      "category": "Accessories",
+      "price": 2500
+    }
+  ]
+}
